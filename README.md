@@ -22,6 +22,10 @@ A calendar web app for discord for groups/planning/organisation. Below is a list
     - [ ] A group calendar lists users who aren't available at a timeslot
 
 ## Phase 2
+- **Users**
+  - [ ] A user can edit a calender with times they are not available
+  - [ ] A user can designate the type of availability for a timeslot
+  - [ ] A user can customise their experience
 - **Groups**
   - [ ] The leader can set whether the group is discoverable
     - [ ] A discoverable group can be searched for by any user
@@ -29,14 +33,8 @@ A calendar web app for discord for groups/planning/organisation. Below is a list
   - [ ] Discord integration
     - [ ] Generate invite link
     - [ ] See whose online
-
-## Phase 3
-- **Users**
-  - [ ] A user can edit a calender with times they are not available
-  - [ ] A user can designate the type of availability for a timeslot
-  - [ ] A user can customise their experience
   
-## Phase 4
+## Phase 3
 - **Extended User Profile**
   - [ ] A user can add the games they play
     - [ ] A user can add the characters they play to a game
