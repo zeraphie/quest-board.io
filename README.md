@@ -2,6 +2,7 @@
 A calendar web app for discord for groups/planning/organisation. Below is a list of what will be happening in each phase of this project. This is planned to be an open source project under the MIT Licence.
 
 *Note: This readme is currently a live document, it can change quite a lot until I get started on this!*
+*Note 2: If you want to suggest something, add it to the [issues](https://github.com/zeraphie/discord-calendar/issues) section*
 
 ## Phase 1 - MVP (Minimum Viable Product)
 - **Backend**
