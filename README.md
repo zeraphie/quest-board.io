@@ -2,7 +2,11 @@
 A calendar web app for discord for groups/planning/organisation. Below is a list of what will be happening in each phase of this project.
 
 ## Phase 1
-- **Calendar**
+- **Server**
+  - [ ] Create a droplet on Digital Ocean dedicated to this
+  - [ ] Choose the type of server for it
+- **Frontend**
+  - [ ] Choose a framework/library (most likely react)
   - [ ] Choose/design a calendar
 - **Users**
   - [ ] A user can login using their discord account
