@@ -54,3 +54,4 @@ A calendar web app for discord for groups/planning/organisation. Below is a list
 ## Phase 4 - Integrations (3rd party software)
 - **Integrations**
   - [ ] Integration with Google Calendar for import/sync for availabilities
+  - [ ] Discord Rich Presence?
