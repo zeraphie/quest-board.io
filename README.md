@@ -5,7 +5,7 @@ A calendar web app for discord for groups/planning/organisation. Below is a list
 
 ## Phase 1 - MVP (Minimum Viable Product)
 - **Backend**
-  - [ ] Grab a domain name (maybe: `discord-calendar`, `discplanner`) - https://pollunit.com/en/polls/0HAn5W1Uobwpa52FJVNtJQ
+  - [ ] Grab a domain name (maybe: `discord-calendar`, `discplanner`) - [here's a poll](https://pollunit.com/en/polls/0HAn5W1Uobwpa52FJVNtJQ)
   - [ ] Create a droplet on Digital Ocean dedicated to this
   - [ ] Choose the type of server for it (caddy? nginx?)
 - **Frontend**
