@@ -23,6 +23,8 @@ A calendar web app for discord for groups/planning/organisation. Below is a list
     - [ ] A group calendar lists users who aren't available at a timeslot
 
 ## Phase 2 - Discoverability & Customisations
+- **Discord Server**
+  - [ ] Create a discord server for the app
 - **Users**
   - [ ] A user can edit a calender with times they are not available
   - [ ] A user can designate the type of availability for a timeslot
