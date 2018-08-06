@@ -1,7 +1,7 @@
 # Discord Calendar
 A calendar web app for discord for groups/planning/organisation. Below is a list of what will be happening in each phase of this project.
 
-## Phase 1
+## Phase 1 - MVP (Minimum Viable Product)
 - **Backend**
   - [ ] Grab a domain name (maybe: `discord-calendar`, `discplanner`)
   - [ ] Create a droplet on Digital Ocean dedicated to this
@@ -22,14 +22,16 @@ A calendar web app for discord for groups/planning/organisation. Below is a list
     - [ ] A group calendar highlights times that are available
     - [ ] A group calendar lists users who aren't available at a timeslot
 
-## Phase 2
+## Phase 2 - Discoverability & Customisations
 - **Users**
   - [ ] A user can edit a calender with times they are not available
   - [ ] A user can designate the type of availability for a timeslot
-  - [ ] A user can customise their experience
   - [ ] A user can add their general availability (like if they work regular hours etc)
     - [ ] Repeat events with control on times of day, and days in week
     - [ ] Overwritable by adding a timeslot
+  - [ ] A user can customise their experience
+    - [ ] Editable Dashboard
+    - [ ] Different themes for the app
 - **Groups**
   - [ ] The leader can set whether the group is discoverable
     - [ ] A discoverable group can be searched for by any user
@@ -38,7 +40,7 @@ A calendar web app for discord for groups/planning/organisation. Below is a list
     - [ ] Generate invite link
     - [ ] See whose online
   
-## Phase 3
+## Phase 3 - Extended User Profile (separate app)
 - **Extended User Profile**
   - [ ] A user can add the games they play
     - [ ] A user can add the characters they play to a game
@@ -47,6 +49,6 @@ A calendar web app for discord for groups/planning/organisation. Below is a list
   - [ ] A user can add themselves to a discoverable group
   - [ ] A user can remove themselves from a discoverable group
 
-## Phase 4
+## Phase 4 - Integrations with 3rd party software
 - **Integrations**
   - [ ] Integration with Google Calendar for import/sync for availabilities
