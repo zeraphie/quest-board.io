@@ -21,6 +21,7 @@ A calendar web app for discord for groups/planning/organisation. Below is a list
   - [ ] Has basic information (i.e. name, game, link)
   - [ ] Leader can invite a user to a group
   - [ ] Leader can kick a user from a group
+  - [ ] Add timeslot to the calendar that propagates to each member of the group's calendar
   - **Calendar**
     - [ ] A group calendar highlights times that are available
     - [ ] A group calendar lists users who aren't available at a timeslot
@@ -45,7 +46,14 @@ A calendar web app for discord for groups/planning/organisation. Below is a list
     - [ ] Generate invite link
     - [ ] See whose online
   
-## Phase 3 - Extended User Profile (separate app)
+## Phase 3 - Discord Bot
+- **Bot**
+  - [ ] Create a discord bot
+  - [ ] Link to the web app
+  - [ ] Help info
+  - [ ] Notification to group Leader if someone changes their availability soon before the assigned group time
+  
+## Phase 4 - Extended User Profile (separate app)
 - **Extended User Profile**
   - [ ] A user can add the games they play
     - [ ] A user can add the characters they play to a game
@@ -54,7 +62,7 @@ A calendar web app for discord for groups/planning/organisation. Below is a list
   - [ ] A user can add themselves to a discoverable group
   - [ ] A user can remove themselves from a discoverable group
 
-## Phase 4 - Integrations (3rd party software)
+## Phase 5 - Integrations (3rd party software)
 - **Integrations**
   - [ ] Integration with Google Calendar for import/sync for availabilities
   - [ ] Discord Rich Presence?
