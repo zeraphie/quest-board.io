@@ -27,6 +27,9 @@ A calendar web app for discord for groups/planning/organisation. Below is a list
   - [ ] A user can edit a calender with times they are not available
   - [ ] A user can designate the type of availability for a timeslot
   - [ ] A user can customise their experience
+  - [ ] A user can add their general availability (like if they work regular hours etc)
+    - [ ] Repeat events with control on times of day, and days in week
+    - [ ] Overwritable by adding a timeslot
 - **Groups**
   - [ ] The leader can set whether the group is discoverable
     - [ ] A discoverable group can be searched for by any user
