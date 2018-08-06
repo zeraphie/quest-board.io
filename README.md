@@ -2,7 +2,8 @@
 A calendar web app for discord for groups/planning/organisation. Below is a list of what will be happening in each phase of this project.
 
 ## Phase 1
-- **Server**
+- **Backend**
+  - [ ] Grab a domain name (maybe: `discord-calendar`, `discplanner`)
   - [ ] Create a droplet on Digital Ocean dedicated to this
   - [ ] Choose the type of server for it
 - **Frontend**
