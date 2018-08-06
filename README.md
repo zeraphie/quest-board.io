@@ -1,5 +1,5 @@
 # Discord Calendar
-A calendar web app for discord for groups/planning/organisation
+A calendar web app for discord for groups/planning/organisation. Below is a list of what will be happening in each phase of this project.
 
 ## Phase 1
 - **Calendar**
@@ -25,6 +25,14 @@ A calendar web app for discord for groups/planning/organisation
   - [ ] Discord integration
     - [ ] Generate invite link
     - [ ] See whose online
+
+## Phase 3
+- **Users**
+  - [ ] A user can edit a calender with times they are not available
+  - [ ] A user can designate the type of availability for a timeslot
+  - [ ] A user can customise their experience
+  
+## Phase 4
 - **Extended User Profile**
   - [ ] A user can add the games they play
     - [ ] A user can add the characters they play to a game
@@ -33,10 +41,6 @@ A calendar web app for discord for groups/planning/organisation
   - [ ] A user can add themselves to a discoverable group
   - [ ] A user can remove themselves from a discoverable group
 
-## Phase 3
-- **Users**
-  - [ ] A user can edit a calender with times they are not available
-  - [ ] A user can designate the type of availability for a timeslot
-  - [ ] A user can customise their experience
+## Phase 4
 - **Integrations**
   - [ ] Integration with Google Calendar for import/sync for availabilities
