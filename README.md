@@ -49,6 +49,6 @@ A calendar web app for discord for groups/planning/organisation. Below is a list
   - [ ] A user can add themselves to a discoverable group
   - [ ] A user can remove themselves from a discoverable group
 
-## Phase 4 - Integrations with 3rd party software
+## Phase 4 - Integrations (3rd party software)
 - **Integrations**
   - [ ] Integration with Google Calendar for import/sync for availabilities
