@@ -5,7 +5,7 @@ A calendar web app for discord for groups/planning/organisation. Below is a list
 - **Backend**
   - [ ] Grab a domain name (maybe: `discord-calendar`, `discplanner`)
   - [ ] Create a droplet on Digital Ocean dedicated to this
-  - [ ] Choose the type of server for it
+  - [ ] Choose the type of server for it (caddy? nginx?)
 - **Frontend**
   - [ ] Choose a framework/library (most likely react)
   - [ ] Choose/design a calendar
