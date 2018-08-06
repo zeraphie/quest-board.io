@@ -5,8 +5,8 @@ A calendar web app for discord for groups/planning/organisation
 - **Calendar**
   - [ ] Choose/design a calendar
 - **Users**
+  - [ ] A user can login using their discord account
   - **Calendar**
-    - [ ] A user can login using their discord account
     - [ ] A user can edit their calendar with times they are available
 - **Groups**
   - [ ] Created by a user (who is designated the Leader of the group)
@@ -19,8 +19,12 @@ A calendar web app for discord for groups/planning/organisation
 
 ## Phase 2
 - **Groups**
-  - [ ] The lead can set whether the group is discoverable
+  - [ ] The leader can set whether the group is discoverable
     - [ ] A discoverable group can be searched for by any user
+  - [ ] The leader can make other people the lead of the group
+  - [ ] Discord integration
+    - [ ] Generate invite link
+    - [ ] See whose online
 - **Extended User Profile**
   - [ ] A user can add the games they play
     - [ ] A user can add the characters they play to a game
