@@ -52,6 +52,7 @@ A calendar web app for discord for groups/planning/organisation. Below is a list
   - [ ] Link to the web app
   - [ ] Help info
   - [ ] Notification to group Leader if someone changes their availability soon before the assigned group time
+  - [ ] Get group's current calendar
   
 ## Phase 4 - Extended User Profile (separate app)
 - **Extended User Profile**
