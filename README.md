@@ -13,7 +13,11 @@ A calendar web app for discord for groups/planning/organisation. Below is a list
 - **Frontend**
   - [ ] Choose a general aesthetic (discord style?)
   - [ ] Choose a framework/library (most likely react)
+  - [ ] Hot module reloading (not needed but very useful)
   - [ ] Choose/design a calendar
+    - [ ] Perhaps [this](https://codepen.io/zephyr/pen/zKAPrG)? (without jQuery) 
+    - [ ] Should fill the screen as it is main focal point of app
+    - [ ] Should be able to assign multiple timeranges per day without overlapping
 - **Users**
   - [ ] A user can login using their discord account
   - **Calendar**
