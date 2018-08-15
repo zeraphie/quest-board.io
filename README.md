@@ -1,4 +1,4 @@
-# Discord Calendar
+# Quest Board.io
 A calendar web app for discord for groups/planning/organisation. Below is a list of what will be happening in each phase of this project. This is planned to be an open source project under the MIT Licence.
 
 *Note: This readme is currently a live document, it can change quite a lot until I get started on this!*
@@ -6,11 +6,11 @@ A calendar web app for discord for groups/planning/organisation. Below is a list
 *Note 2: If you want to suggest something, add it to* [this issue](/../../issues/1)
 
 ## Phase 0 - Name
-- Figure out a new name for this, as unable to use discord in the app name due to TOS
+- [x] Figure out a new name for this, as unable to use discord in the app name due to TOS *Naming this Quest Board.io`
 
 ## Phase 1 - MVP (Minimum Viable Product)
 - **Backend**
-  - [ ] Grab a domain name (maybe: `discord-calendar`, `discplanner`) - [here's a poll](https://pollunit.com/en/polls/0HAn5W1Uobwpa52FJVNtJQ) *you can add your own options*
+  - [x] Grab a domain name - `quest-board.io`
   - [ ] Create a droplet on Digital Ocean dedicated to this
   - [ ] Choose the type of server for it (caddy? nginx?)
 - **Frontend**
